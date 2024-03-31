@@ -1,0 +1,50 @@
+{
+    "daily1": {
+        "itemGrants": [
+            "AthenaSkyDiveContrail:Trails_ID_012_Spraypaint"
+        ],
+        "vbucks": 500
+    },
+    "daily2": {
+        "itemGrants": [
+            "AthenaEmoji:Emoji_Tasty"
+        ],
+        "vbucks": 200
+    },
+    "daily3": {
+        "itemGrants": [
+            "AthenaGlider:Glider_ID_075_ModernMilitaryRed"
+        ],
+        "vbucks": 1600
+    },
+    "daily4": {
+        "itemGrants": [
+            "AthenaDance:EID_Dinosaur"
+        ],
+        "vbucks": 500
+    },
+    "daily5": {
+        "itemGrants": [
+            "AthenaBackpack:BID_099_BlueSamuraiFemale"
+        ],
+        "vbucks": 1500
+    },
+    "daily6": {
+        "itemGrants": [
+            "AthenaEmoji:Emoji_ThumbsUp"
+        ],
+        "vbucks": 200
+    },
+    "featured1": {
+        "itemGrants": [
+            "AthenaCharacter:CID_267_Athena_Commando_M_RobotRed"
+        ],
+        "vbucks": 2000
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_244_Athena_Commando_M_PumpkinSuit"
+        ],
+        "vbucks": 1500
+    }
+}
